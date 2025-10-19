@@ -1,4 +1,4 @@
-"sklearn здорового человека" или "На C будет быстрее". 
+Simple Linear Regression
 =========
 Основной целью является практика использования **C++** и некоторых **Python-библиотек (numpy, polars, matplotlib и scikit-learn)**.
 
