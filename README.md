@@ -1,6 +1,6 @@
 Simple Linear Regression
 =========
-Основной целью является практика использования **C++** и некоторых **Python-библиотек (numpy, polars, matplotlib и scikit-learn)**.
+Основной целью является практика использования **~~плюсов~~** языка **C++** и некоторых **Python-библиотек (numpy, polars, matplotlib и scikit-learn)**.
 
 В рамках проекта был реализован класс **LinReg** и **LRSchedulerBase**.
 Также для **LRSchedulerBase** были созданы классы-наследники: **StepDecay, ConstantLR, ExponentialDecay, CosineDecay**. Конечно же метод **fit()** класса **LinReg** 
